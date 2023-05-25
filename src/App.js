@@ -32,7 +32,7 @@ function App() {
       </main>
 
       <h1>Total spending: <span className='total'>$ {expenses.reduce((acc, curr) => {
-        return (acc += curr.amount)
+        return (acc += curr.amount);
       }, 0)}</span></h1>
 
     </>
