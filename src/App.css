@@ -41,7 +41,7 @@ h1 {
 }
 label {
   display: block;
-  color: var(--mainGrey);
+  color: #222;
   font-size: 1rem;
   text-transform: capitalize;
 }

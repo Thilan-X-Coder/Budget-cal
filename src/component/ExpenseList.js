@@ -8,12 +8,15 @@ const ExpenseList = ({ expenses }) => {
         <>
             <ul className='list'>
                 {expenses.map((expense) => {
-                    return <Item key={expense.Id} expense={expense} />
+                    return <Item
+                        key={expense.Id}
+                        expense={expense} />
                 })}
             </ul>
-            {expenses.length > 0 && <button className='btn'>clear expenses
-                <MdDelete className='btn-icon' />
-            </button>}
+            {expenses.length > 0 &&
+                <button className='btn'>clear expenses
+                    <MdDelete className='btn-icon' />
+                </button>}
         </>
     )
 }
