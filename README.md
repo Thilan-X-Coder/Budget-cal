@@ -3,10 +3,13 @@ this is my first react project. when I was starting this project I had learned r
 and I refered the similer badget claculater implementation via youtube.
 
 I get lot_of learning out comes of this project;
-*how to handle react component.
-*how to use react props
-*how to use react hooks
-*etc
+\*how to handle react component.
+
+\*how to use react props
+
+\*how to use react hooks
+
+\*etc
 
 # Getting Started with Create React App
 
