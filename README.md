@@ -1,3 +1,13 @@
+this is my first react project. when I was starting this project I had learned react basics like how to hadle react props and some knowledge of react hooks.
+
+and I refered the similer badget claculater implementation via youtube.
+
+I get lot_of learning out comes of this project;
+*how to handle react component.
+*how to use react props
+*how to use react hooks
+*etc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
