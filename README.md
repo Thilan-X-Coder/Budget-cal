@@ -3,6 +3,7 @@ this is my first react project. when I was starting this project I had learned r
 and I refered the similer badget claculater implementation via youtube.
 
 I get lot_of learning out comes of this project;
+
 \*how to handle react component.
 
 \*how to use react props
